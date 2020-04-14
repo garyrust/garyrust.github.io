@@ -4,7 +4,7 @@
 <a href="https://kookma.github.io/TW5-GitHub-Saver/" target="_blank">How to save Tiddlywiki 5.1.20 directly to GitHub</a><br>
 From <a href="https://tiddlywiki.com" target="_blank">https://tiddlywiki.com</a>
 download an empty edition <br>
-and rename the empty.html to index.html
+and rename the empty.html to index.html (see How To).
 </html><br>
 <html><a href="https://twitter.com/intent/tweet?screen_name=glassparrot&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @glassparrot</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></html> <br>
 <html><a href="https://www.google.com/" target="_blank"><img title="Search Google"
