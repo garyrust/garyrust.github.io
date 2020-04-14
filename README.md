@@ -16,7 +16,7 @@ src="https://www.richmondsavers.com/wp-content/uploads/2017/06/ting-social-logo.
 <html><a href="https://vault.zoho.com/" target="_blank"><img title="Zoho Vault"
 style="border: 0px solid ; width: 72px; height: 72px;"
 alt="Zoho Vault"
-src="https://bit.ly/3e3h8zZ"></a></html> 
+src="https://bit.ly/3e3h8zZ"></a></html><br> 
 <html><a href="https://www.wordnik.com/about" target="_blank"><img title="Wordnik"
 style="border: 0px solid ; width: 150px; height: 30px;"
 alt="Wordnik"
