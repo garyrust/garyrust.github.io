@@ -41,3 +41,4 @@ alt="Search Google"
 src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/google-icon.png">Google Search</a></html> <br>
 It's very easy to make some words **bold** and other words *italic* with Markdown.<br>
 You can even [link to Google!](http://google.com) <br>
+Experiment: [n6xre.html Link](https://github.com/garyrust/garyrust.github.io/blob/master/n6xre.html) <br>
