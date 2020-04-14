@@ -2,7 +2,7 @@
 <br>
 <html>
 <a href="https://kookma.github.io/TW5-GitHub-Saver/" target="_blank">Save Tiddlywiki 5.1.20 directly to GitHub</a><br>
-From <html> <a href="https://tiddlywiki.com" target="_blank">https://tiddlywiki.com</a>
+From <a href="https://tiddlywiki.com" target="_blank">https://tiddlywiki.com</a>
 download an empty edition <br>
 and rename the empty.html to index.html
 </html><br>
