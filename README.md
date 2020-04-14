@@ -1,5 +1,6 @@
 # garyrust.github.io
 <br>
+[Host your tiddlywikis in GitHub pages without any git knowledge or installing any software](https://github.com/danielo515/TW5-auto-publish2gh-pages) <br>
 <html><a href="https://twitter.com/intent/tweet?screen_name=glassparrot&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @glassparrot</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></html> <br>
 <html><a href="https://www.google.com/" target="_blank"><img title="Search Google"
 style="border: 0px solid ; width: 72px; height: 72px;"
@@ -26,7 +27,6 @@ style="border: 0px solid ; width: 150px; height: 40px;"
 alt="Vocabulary.com"
 src="https://www.nwaea.org/media/cms/Screen_Shot_20141023_at_1_CA5F8D648ABBD.png"></a></html> <br>
 <html><a href="https://my.callcentric.com/c2d/" target="_blank">Callcentric Click 2 dial</a></html> <br>
-My GitHub Page is at - https://garyrust.github.io/ - [View On GitHub](https://github.com/garyrust/garyrust.github.io) - [n6xre.html Tiddlywiki Page](http://n6xre.tiddlyspot.com/) <br>
 I'm just learning how to use [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) <br>
 [Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/) <br>
 [Jekyll Docs](https://jekyllrb.com/docs/) <br>
