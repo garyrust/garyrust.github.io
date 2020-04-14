@@ -14,4 +14,5 @@ Using Jekyll with Bundler - https://jekyllrb.com/tutorials/using-jekyll-with-bun
 style="border: 0px solid ; width: 72px; height: 72px;"
 alt="Search Google"
 src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/google-icon.png">Google Search</a></html> <br>
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com) <br>
+It's very easy to make some words **bold** and other words *italic* with Markdown.<br>
+You can even [link to Google!](http://google.com) <br>
