@@ -1,6 +1,6 @@
 # garyrust.github.io
 <br>
-I'm just learning how to use GitHub Paper and Jekyll <br>
+I'm just learning how to use [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) <br>
 My GitHub Page is at - https://garyrust.github.io/ <br>
 [Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/) <br>
 [Jekyll Docs](https://jekyllrb.com/docs/) <br>
