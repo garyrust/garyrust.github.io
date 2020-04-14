@@ -4,7 +4,7 @@ My GitHub Page is at - https://garyrust.github.io/ - [View On GitHub](https://gi
 I'm just learning how to use [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) <br>
 [Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/) <br>
 [Jekyll Docs](https://jekyllrb.com/docs/) <br>
-https://jekyllrb.com/ <br>
+[Jekyll Home](https://jekyllrb.com/) <br>
 [Jekyll Tutorials](https://jekyllrb.com/tutorials/home/) <br>
 [Jekyll Video Walkthroughs](https://jekyllrb.com/tutorials/video-walkthroughs/) <br>
 [Jekyll - Convert an HTML site to Jekyll](https://jekyllrb.com/tutorials/convert-site-to-jekyll/) <br>
