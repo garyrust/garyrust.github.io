@@ -26,7 +26,7 @@ style="border: 0px solid ; width: 150px; height: 40px;"
 alt="Vocabulary.com"
 src="https://www.nwaea.org/media/cms/Screen_Shot_20141023_at_1_CA5F8D648ABBD.png"></a></html> <br>
 <html><a href="https://my.callcentric.com/c2d/" target="_blank">Callcentric Click 2 dial</a></html> <br>
-My GitHub Page is at - https://garyrust.github.io/ - [View On GitHub](https://github.com/garyrust/garyrust.github.io) <br>
+My GitHub Page is at - https://garyrust.github.io/ - [View On GitHub](https://github.com/garyrust/garyrust.github.io) - [n6xre.html Tiddlywiki Page](http://n6xre.tiddlyspot.com/) <br>
 I'm just learning how to use [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) <br>
 [Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/) <br>
 [Jekyll Docs](https://jekyllrb.com/docs/) <br>
@@ -41,4 +41,3 @@ alt="Search Google"
 src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/google-icon.png">Google Search</a></html> <br>
 It's very easy to make some words **bold** and other words *italic* with Markdown.<br>
 You can even [link to Google!](http://google.com) <br>
-Experiment: [n6xre.html Link](https://github.com/garyrust/garyrust.github.io/blob/master/n6xre.html) <br>
