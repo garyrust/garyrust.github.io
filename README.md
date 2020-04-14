@@ -31,7 +31,6 @@ src="https://www.wordnik.com/img/wordnik-logo-300px.png"></a></html>
 style="border: 0px solid ; width: 150px; height: 40px;"
 alt="Vocabulary.com"
 src="https://www.nwaea.org/media/cms/Screen_Shot_20141023_at_1_CA5F8D648ABBD.png"></a></html> <br>
-<html><a href="https://garyrust.github.io/" target="_blank">https://garyrust.github.io/</a> - <a href="https://my.callcentric.com/c2d/" target="_blank">Callcentric Click 2 dial</a></html> <br>
 I'm just learning how to use [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) <br>
 [Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/) <br>
 [Jekyll Docs](https://jekyllrb.com/docs/) <br>
