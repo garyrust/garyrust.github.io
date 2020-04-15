@@ -7,7 +7,7 @@ download an empty edition <br>
 and rename the empty.html to index.html (see How To).<br>
 <a href="https://bit.ly/3cjzOKl" target="_blank">See "GettingStarted - Android"</a> - 
 <a href="https://bit.ly/2ySRmOT" target="_blank">TiddlyWiki Hangouts playlist</a><br>
-<a href="https://garyrust.github.io/" target="_blank">https://garyrust.github.io/</a> - <a href="https://garyrust.github.io/TiddlyWiki5/" target="_blank">https://garyrust.github.io/TiddlyWiki5/</a></html> <br>
+<a href="https://github.com/garyrust/TiddlyWiki5" target="_blank">https://github.com/garyrust/TiddlyWiki5</a> - <a href="https://garyrust.github.io/TiddlyWiki5/" target="_blank">https://garyrust.github.io/TiddlyWiki5/</a></html> <br>
 <html><a href="https://twitter.com/intent/tweet?screen_name=glassparrot&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @glassparrot</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></html> <br>
 <html><a href="https://www.google.com/" target="_blank"><img title="Search Google"
 style="border: 0px solid ; width: 72px; height: 72px;"
