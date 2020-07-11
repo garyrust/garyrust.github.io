@@ -1,22 +1,22 @@
 <html>
 <head>
-<title></title>
-&lt;head&gt; &lt;title&gt;iFrame&lt;/title&gt; &lt;script
-language="javascript"&gt; function LoadPage(){ var
-objFrame=document.getElementById("myIframe");
-objFrame.src=document.getElementById("URL").value; } &lt;/script&gt;
+<title> iFrame </title>
+<script language="javascript">
+function LoadPage(){
+var objFrame=document.getElementById("myIframe");
+objFrame.src=document.getElementById("URL").value;
+}
+</script>
 </head>
 <body>
-<div style="clear: both;"> <input
-value="https://htmlg.com/html-editor/" class="frmUrlVal" id="URL"
-type="text"> <input class="frmSubmit" value="Go" onclick="LoadPage()"
-type="submit"> <input value="&lt; &lt; &nbsp; Back &nbsp;"
-onclick="myIframe.history.back()" type="button"> <input
-value="Forward &nbsp; &gt; &gt;" onclick="myIframe.history.forward()"
-type="button"> </div>
-<iframe src="https://htmlg.com/html-editor/" name="myIframe"
-id="myIframe" align="middle" frameborder="yes" height="800"
-scrolling="yes" width="1600"> </iframe>
+<div style="Clear:both;">
+<input type="text" value="https://htmlg.com/html-editor/" class="frmUrlVal" ID="URL">
+<input type="submit" class="frmSubmit" value="Go" onclick="LoadPage()">
+<input type="button" VALUE="&lt; &lt; &nbsp; Back &nbsp;" onClick="myIframe.history.back()">
+<input type="button" VALUE="Forward &nbsp; &gt; &gt;" onClick="myIframe.history.forward()">
+</div>
+<iframe align="center" width="800" height="400" src="https://htmlg.com/html-editor/" frameborder=yes scrolling="yes" name="myIframe" id="myIframe"> </iframe>
+<br>
 <table style="text-align: left;" border="1" cellpadding="2"
 cellspacing="2">
 <tbody>
